@@ -1,0 +1,1 @@
+msg /SERVER:192.168.0.167 * /TIME:600 "Fire Hazard! Evacuate Immediately!"
