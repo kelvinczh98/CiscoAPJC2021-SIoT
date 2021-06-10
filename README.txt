@@ -13,3 +13,7 @@ For RasPi folder:
 
 For Windows folder:
 1. Change the IP address depending on the computer's IP that you want to send popup to.
+
+
+Sample output of Dashboard monitoring:
+https://thingspeak.com/channels/1408487
