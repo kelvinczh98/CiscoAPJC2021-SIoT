@@ -6,7 +6,7 @@ For RasPi folder:
 1. Save the contents in the same directory.
 2. For Master.py:
    - Change API key to your own thingspeak API key
-   - Change directory accordingly for function to send message to webex server
+   - Change directory accordingly for callwarning.sh and warningmsg.py to send message to webex server
    - Change the serial input accordingly under main code section
 3. For botstuff/callwarning.sh:
    - Change bot token to your own token
